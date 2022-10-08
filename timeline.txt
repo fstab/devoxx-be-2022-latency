@@ -1,0 +1,10 @@
+Intro + Demo + Criteria:     20min
+  - demo good case:           ( 4)
+  - service vs response time  ( 9)
+  - load test back off        (13)
+  - table of contents         (16)
+  - criteria                  (20)
+Average & Max:               10min -> 30min
+Percentiles:                  7min -> 37min
+Histograms & new Histograms: 10min -> 47min
+Wrap up:                      3min -> 50min
